@@ -13,6 +13,12 @@
         Console.WriteLine(@"  >`-._|/.-'<         ");
         Console.WriteLine(@" '~|/~~|~~\|~'       ");
         Console.WriteLine(@"       |              ");
-      
+
+
+
+      var Nombre = Console.ReadLine();
     }
+
+    
+
 }
