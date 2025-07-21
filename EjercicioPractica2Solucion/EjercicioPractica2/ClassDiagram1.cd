@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjercicioPractica2.VendingMachine">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAEAIQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VendingMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPractica2.Producto">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Class Name="EjercicioPractica2.Producto.Producto" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Producto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPractica2.Slot">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAEAAQAAAAAAAAQAAAAAAAAAAABABAAA=</HashCode>
+      <FileName>Slot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPractica2.Monedero">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAACAAAAAIAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Monedero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioPractica2.Transaccion">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAQAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transaccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

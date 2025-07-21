@@ -6,9 +6,11 @@
         
         while (true)
             {
-            // int dia = int.Parse(Console.ReadLine());
+            //int dia = int.Parse(Console.ReadLine());
             var dia = 0;
+          
             bool convertido = int.TryParse(Console.ReadLine(), out dia);
+
                 switch (dia)
                 {
                     case 1:
@@ -42,4 +44,4 @@
             }
         }
     
-    }
+}
